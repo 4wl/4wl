@@ -2,7 +2,7 @@
 
  🔭 I’m currently working on: Inc.
  
- 🌱 I’m currently learning: Java Kotlin Python CPP
+ 🌱 I’m currently learning: Java, Kotlin, Python, CPP (Not Sure)
  
  👯 I’m looking to collaborate on: Nope!
  
