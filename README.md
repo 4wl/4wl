@@ -6,6 +6,6 @@
  
  👯 I’m looking to collaborate on: Nope!
  
- 🤔 I’m looking for help with: Nope!
+ 🤔 I’m looking for help with: Two of one
  
  💬 Ask me about: I'm cool.
