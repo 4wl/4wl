@@ -1,18 +1,10 @@
-### How About ME! 
-
- 🔭 I’m currently working on: Inc.
- 
- 🌱 I’m currently learning: Java, Kotlin, Python, CPP (Not Sure)
- 
- 👯 I’m looking to collaborate on: Nope!
- 
- 🤔 I’m looking for help with: Two of one
- 
- 💬 Ask me about: I'm cool.
+<h1 align="center">Hey! Im 4wl
+ </h1>
  
 -----
 
-![](https://komarev.com/ghpvc/?username=4wl)
+![](https://komarev.com/ghpvc/?username=4w)
+![](https://github-profile-trophy.vercel.app/?username=4wl&theme=nord&margin-w=15&margin-h=15&column=)
 
 -----
 
